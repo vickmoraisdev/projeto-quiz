@@ -28,5 +28,5 @@ Praticar conceitos básicos de HTML como:
 
 ## 👨‍💻 Autor
 Desenvolvido por Vitória de Morais.
-🔗 LinkedIn: www.linkedin.com/in/vitória-morais-394780347 
-💻 GitHub: https://github.com/vickmoraisdev
+- 🔗 LinkedIn: www.linkedin.com/in/vitória-morais-394780347 
+- 💻 GitHub: https://github.com/vickmoraisdev
