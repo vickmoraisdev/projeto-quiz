@@ -24,7 +24,9 @@ Praticar conceitos básicos de HTML como:
 ![Perguntas 7 e 8](https://github.com/user-attachments/assets/2f74bb10-52db-4b45-ba75-b8084272958a)
 ![Tabela de pontuação e gabarito](https://github.com/user-attachments/assets/b5d65720-4f3e-4539-957c-bd22463bc131)
 ![Área de Feedback](https://github.com/user-attachments/assets/79d4c809-971f-4f04-85bc-e260f52190d8)
-![Sobre mim](https://github.com/user-attachments/assets/c804f18e-51e3-474e-8cbf-dae3240e9818)
+![Sobre mim - introdução](https://github.com/user-attachments/assets/c61d3ce0-cbfe-4781-b0b3-753c8923571c)
+![Estudos](https://github.com/user-attachments/assets/d4f50cb3-3ab7-4511-ac23-d464ae444674)
+![Projetos e fim do site](https://github.com/user-attachments/assets/11d2eb2f-3b24-4813-b996-6446a80c2a80)
 
 ## 👨‍💻 Autor
 Desenvolvido por Vitória de Morais.
